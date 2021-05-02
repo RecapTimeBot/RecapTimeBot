@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=recaptimebot&label=Profile%20views&color=0e75b6&style=flat" alt="recaptime" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=recaptime" alt="recaptime" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=recaptimebot" alt="recaptimebot" /></a> </p>
 
 - 📫 How to reach me **https://github.com/RecapTime/community-lounge/discussions**
 
@@ -21,4 +21,5 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/thepinsteam"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="thepinsteam" /></a></p><br><br>
 
+<h3 align="left">Activity Speedrun</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=recaptimebot&theme=dark" alt="recaptime" /></p>
